@@ -1,0 +1,17 @@
+"Enable" = "有効にする";
+"Settings" = "設定";
+"Hide Settings Arrow" = "設定矢印を非表示";
+"Hide Supervised" = "管理されたものを非表示";
+"Hide Settings Icons" = "設定アイコンを非表示";
+"Hide Search Bar" = "検索バーを非表示";
+"Hide Software Update" = "ソフトウェア更新を非表示";
+"Hide Third Party Apps" = "サードパーティーアプリを非表示";
+"Rounded Search Bar" = "角丸の検索バー";
+"Show Ethernet" = "Ethernet を表示";
+"Show Battery Health" = "バッテリーの健康状態を表示";
+"Hide Large Title" = "大見出しを非表示にする";
+"Circle Icons" = "円形アイコン";
+"Account Name" = "アカウント名";
+"Leave Empty for No Account Name" = "アカウント名がない場合は空白にしてください。";
+"Enable Custom Account Name" = "カスタムアカウント名を有効にする";
+"Custom Account Name" = "カスタムアカウント名";

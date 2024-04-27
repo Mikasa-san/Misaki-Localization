@@ -1,0 +1,12 @@
+"Control Center" = "コントロールセンター";
+"Disable WiFi & Bluetooth" = "Wi-FiとBluetoothを無効にする";
+"The WiFi & Bluetooth will be disable instead of disconnected" = "Wi-FiとBluetoothは切断される代わりに無効になります";
+"Keep Battery Percent inside" = "バッテリーパーセントを内部に保持";
+"Show Percentages On Sliders" = "スライダーにパーセンテージを表示";
+"Hide Sensor" = "センサーを非表示にする";
+"Enable CC via Reachability" = "到達性を介してCCを有効にする";
+"Replace Spotlight With CC" = "スポットライトをCCに置き換える";
+"Cool CC" = "クールなCC";
+"Border Settings" = "境界設定";
+"Border width" = "境界線の幅";
+"Border Color" = "境界線の色";
