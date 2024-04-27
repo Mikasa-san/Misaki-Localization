@@ -9,9 +9,9 @@
 "Hide Settings Icons" = "隐藏设置图标";
 "Hide Software Update" = "隐藏软件更新";
 "Hide Third Party Apps" = "隐藏第三方应用";
-"Hide Large Title" = "隐藏大标题";
+"Hide Large Title" = "隐藏设置标题";
 "Circle Icons" = "圆形图标";
 "Account Name" = "账户名";
-"Leave Empty for No Account Name" = "如果没有账户名，请将其留空。";
+"Leave Empty for No Account Name" = "留空则不显示账号名";
 "Enable Custom Account Name" = "启用自定义账户名";
 "Custom Account Name" = "自定义账户名";

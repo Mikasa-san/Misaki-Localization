@@ -7,7 +7,7 @@
 "Hide Do Not Disturb Banner" = "隐藏勿扰横幅";
 "Hide CC Grabber bar" = "隐藏锁屏右上小白条";
 "Disable Lock Button" = "禁用锁定按钮";
-"Hide Face ID Glyph" = "隐藏Face ID图标";
+"Hide Face ID Glyph" = "隐藏面容 ID 图标";
 "Hide Quick Action Toggles" = "隐藏快捷操作切换";
 "Hide Swipe Text" = "隐藏滑动文字";
 "Lock Screen" = "锁屏";
@@ -17,6 +17,6 @@
 "Hide Press Home Text" = "隐藏按Home键文字";
 "Hide Padlock" = "隐藏挂锁";
 "Hide Flash Quick Action Toggle" = "隐藏手电筒";
-"Auto Dismiss Lock Screen" = "自动关闭锁定屏幕";
+"Auto Dismiss Lock Screen" = "自动关闭锁屏";
 "Hide Battery Animation" = "隐藏电池动画";
-"No wake on charge" = "充电时不唤醒";
+"No wake on charge" = "禁用锁屏充电唤醒";
