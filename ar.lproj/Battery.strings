@@ -1,0 +1,12 @@
+"Enable" = "تمكين";
+"Font Size:" = "حجم الخط";
+"Battery" = "البطارية";
+"Regular Style" = "نمط عادي";
+"Battery Color" = "لون البطارية";
+"Battery Default Color" = "لون البطارية الافتراضي";
+"Battery Charging Color" = "لون شحن البطارية";
+"Battery Low Color" = "لون البطارية المنخفض";
+"Battery Saver Mode Color" = "لون وضع توفير الطاقة للبطارية";
+"Hide Low Power Alerts" = "إخفاء تنبيهات الطاقة المنخفضة";
+"Hide Charging Indicator" = "إخفاء مؤشر الشحن";
+"Disable Charging Sound" = "تعطيل صوت الشحن";

@@ -1,0 +1,12 @@
+"Battery" = "Pin";
+"Enable" = "Bật";
+"Font Size:" = "Cỡ chữ:";
+"Regular Style" = "Kiểu Thường";
+"Battery Color" = "Màu Pin";
+"Battery Default Color" = "Màu Pin Mặc định";
+"Battery Charging Color" = "Màu Pin Đang sạc";
+"Battery Low Color" = "Màu Pin Dưới mức";
+"Battery Saver Mode Color" = "Màu Chế độ Tiết kiệm Pin";
+"Hide Low Power Alerts" = "Ẩn Cảnh báo Pin yếu";
+"Hide Charging Indicator" = "Ẩn chỉ báo sạc";
+"Disable Charging Sound" = "Tắt Âm Thanh Sạc";

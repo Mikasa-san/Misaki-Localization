@@ -1,0 +1,12 @@
+"Battery" = "バッテリー";
+"Enable" = "有効にする";
+"Font Size:" = "フォントサイズ：";
+"Regular Style" = "標準スタイル";
+"Battery Color" = "バッテリーの色";
+"Battery Default Color" = "バッテリーのデフォルト色";
+"Battery Charging Color" = "バッテリーの充電中の色";
+"Battery Low Color" = "バッテリーの残量低下色";
+"Battery Saver Mode Color" = "バッテリーセーバーモードの色";
+"Hide Low Power Alerts" = "低電力アラートを非表示";
+"Disable Charging Sound" = "充電音を無効にする";
+"Hide Charging Indicator" = "充電インジケータを非表示";

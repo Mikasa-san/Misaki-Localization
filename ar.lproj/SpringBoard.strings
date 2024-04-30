@@ -4,11 +4,8 @@
 "Hide Tab Labels" = "إخفاء تسميات التبويب";
 "Hide Scroll Bar" = "إخفاء شريط التمرير";
 "Hide Separator Lines" = "إخفاء خطوط الفصل";
-"Hide Low Power Alerts" = "إخفاء تنبيهات الطاقة المنخفضة";
-"Hide Charging Indicator" = "إخفاء مؤشر الشحن";
 "Hide Screenshot Preview" = "إخفاء معاينة لقطة الشاشة";
 "Disable Lock After Respring" = "تعطيل القفل بعد إعادة التشغيل";
-"Disable Charging Sound" = "تعطيل صوت الشحن";
 "Hide Home Screen Backdrop" = "إخفاء خلفية شاشة الصفحة الرئيسية";
 "Hide App Labels" = "إخفاء تسميات التطبيقات";
 "Hide Page Dots" = "إخفاء نقاط الصفحة";
@@ -28,3 +25,5 @@
 "Display Clock Arrow Only" = "عرض الساعة فقط";
 "Home Screen" = "الشاشة الرئيسية";
 "Disable Live Clock" = "تعطيل الساعة الحية";
+"Two Finger to Screen Shot" = "سحب اصبعين للتقاط الشاشة";
+"Swipe Down from the top" = "اسحب لأسفل من الأعلى";

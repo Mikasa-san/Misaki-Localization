@@ -5,11 +5,8 @@
 "Hide Tab Labels" = "Ẩn Nhãn Tab";
 "Hide Scroll Bar" = "Ẩn Thanh cuộn";
 "Hide Separator Lines" = "Ẩn Dòng phân cách";
-"Hide Low Power Alerts" = "Ẩn Cảnh báo Pin yếu";
 "Hide Screenshot Preview" = "Ẩn Xem trước Ảnh chụp màn hình";
 "Disable Lock After Respring" = "Tắt Khóa Sau khi Khởi động lại";
-"Disable Charging Sound" = "Tắt Âm Thanh Sạc";
-"Hide Charging Indicator" = "Ẩn chỉ báo sạc";
 "Home Screen" = "Màn hình Chính";
 "Hide Home Screen Backdrop" = "Ẩn Nền Màn hình Chính";
 "Hide App Labels" = "Ẩn Nhãn Ứng dụng";
@@ -29,3 +26,5 @@
 "Show Download Progress" = "Hiển thị Tiến trình Tải xuống";
 "Display Clock Arrow Only" = "Chỉ Hiển thị Mũi tên Đồng hồ";
 "Disable Live Clock" = "Tắt Đồng hồ Trực tiếp";
+"Two Finger to Screen Shot" = "Hai Ngón Chụp Ảnh màn hình";
+"Swipe Down from the top" = "Vuốt xuống từ đỉnh";

@@ -9,8 +9,6 @@
 "Hide App Labels" = "隐藏应用标签";
 "Hide X Button" = "隐藏关闭按钮";
 "Disable Lock After Respring" = "注销后禁用锁定";
-"Disable Charging Sound" = "禁用充电声音";
-"Hide Charging Indicator" = "隐藏充电闪电图标";
 "Hide Tab Labels" = "隐藏选项卡标签";
 "Hide Home Screen Backdrop" = "隐藏主屏幕背景";
 "Hide Today View" = "隐藏负一屏";
@@ -22,10 +20,11 @@
 "Hide Icon Badge" = "隐藏图标角标";
 "Hide Page Dots" = "隐藏页面指示点";
 "Hide Search Spotlight" = "隐藏搜索聚焦";
-"Hide Low Power Alerts" = "隐藏低电量提醒";
 "Hide Scroll Bar" = "隐藏滚动条";
 "Home Screen" = "主屏幕";
 "Show Download Progress" = "显示下载进度";
 "Hide Widget Footer" = "隐藏小部件底栏";
 "Hide Screenshot Preview" = "隐藏截图预览";
 "Disable Live Clock" = "禁用动态时钟";
+"Two Finger to Screen Shot" = "双指截屏";
+"Swipe Down from the top" = "从顶部向下滑动";

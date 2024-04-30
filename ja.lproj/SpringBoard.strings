@@ -5,11 +5,8 @@
 "Hide Tab Labels" = "タブのラベルを非表示";
 "Hide Scroll Bar" = "スクロールバーを非表示";
 "Hide Separator Lines" = "区切り線を非表示";
-"Hide Low Power Alerts" = "低電力アラートを非表示";
 "Hide Screenshot Preview" = "スクリーンショットプレビューを非表示";
 "Disable Lock After Respring" = "再起動後にロックを無効にする";
-"Disable Charging Sound" = "充電音を無効にする";
-"Hide Charging Indicator" = "充電インジケータを非表示";
 "Home Screen" = "ホーム画面";
 "Hide Home Screen Backdrop" = "ホーム画面の背景を非表示";
 "Hide App Labels" = "アプリのラベルを非表示";
@@ -29,3 +26,5 @@
 "Show Download Progress" = "ダウンロードの進行状況を表示";
 "Display Clock Arrow Only" = "時計の矢印のみ表示";
 "Disable Live Clock" = "ライブ時計を無効にする";
+"Two Finger to Screen Shot" = "スクリーンショットのための2本指";
+"Swipe Down from the top" = "上部から下にスワイプ";

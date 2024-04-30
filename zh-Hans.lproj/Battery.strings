@@ -1,0 +1,12 @@
+"Enable" = "启用";
+"Battery" = "电池";
+"Font Size:" = "字体大小：";
+"Regular Style" = "常规样式";
+"Battery Color" = "电池颜色";
+"Battery Default Color" = "电池默认颜色";
+"Battery Charging Color" = "电池充电颜色";
+"Battery Low Color" = "电池低电量颜色";
+"Battery Saver Mode Color" = "电池省电模式颜色";
+"Disable Charging Sound" = "禁用充电声音";
+"Hide Charging Indicator" = "隐藏充电闪电图标";
+"Hide Low Power Alerts" = "隐藏低电量提醒";
