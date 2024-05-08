@@ -10,3 +10,4 @@
 "Hide Low Power Alerts" = "低電力アラートを非表示";
 "Disable Charging Sound" = "充電音を無効にする";
 "Hide Charging Indicator" = "充電インジケータを非表示";
+"Hide Battery Percent" = "バッテリー残量を非表示にする";
