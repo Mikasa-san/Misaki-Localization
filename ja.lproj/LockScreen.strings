@@ -20,3 +20,6 @@
 "Auto Dismiss Lock Screen" = "ロック画面の自動解除";
 "Hide Battery Animation" = "バッテリーアニメーションを非表示";
 "No wake on charge" = "充電時に起動しない";
+"Passcode Style" = "パスコードスタイル";
+"Clear" = "クリア";
+"Roman" = "ローマン";

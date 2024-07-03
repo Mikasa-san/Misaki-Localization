@@ -20,3 +20,6 @@
 "Auto Dismiss Lock Screen" = "تجاهل تلقائي لشاشة القفل";
 "Hide Battery Animation" = "إخفاء تحريك البطارية";
 "No wake on charge" = "لا تفتح عند الشحن";
+"Passcode Style" = "نمط رمز المرور";
+"Clear" = "مسح";
+"Roman" = "روماني";

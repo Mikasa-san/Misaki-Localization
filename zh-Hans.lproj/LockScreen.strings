@@ -20,3 +20,6 @@
 "Auto Dismiss Lock Screen" = "自动关闭锁屏";
 "Hide Battery Animation" = "隐藏电池动画";
 "No wake on charge" = "禁用锁屏充电唤醒";
+"Passcode Style" = "密码样式";
+"Clear" = "清除";
+"Roman" = "罗马";
