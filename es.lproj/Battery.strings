@@ -1,0 +1,15 @@
+"Battery" = "Batería";
+"Disable Charging Sound" = "Desactivar sonido de carga";
+"Hide Low Power Alerts" = "Ocultar alertas de bajo consumo";
+"Hide Charging Indicator" = "Ocultar indicador de carga";
+"Hide Battery Percent" = "Ocultar porcentaje de batería";
+"Hide Battery Edge" = "Ocultar borde de la batería";
+"Font" = "Fuente";
+"Enable" = "Activar";
+"Font Size:" = "Tamaño de fuente:";
+"Regular Style" = "Estilo regular";
+"Battery Color" = "Color de la batería";
+"Battery Default Color" = "Color predeterminado de la batería";
+"Battery Charging Color" = "Color de carga de la batería";
+"Battery Low Color" = "Color de batería baja";
+"Battery Saver Mode Color" = "Color de modo ahorro de batería";

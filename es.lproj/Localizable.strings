@@ -4,4 +4,7 @@
 "respring_alert_yes" = "Sí";
 "respring_button_title" = "Reiniciar";
 "Close_Phone" = "Cerrar Teléfono";
-"Close_Settings" = "Cerrar Configuración";
+"Close_Settings" = "Cerrar Ajustes";
+"settings_alert_message" = "¿Estás seguro de que quieres cerrar Ajustes?";
+"settings_alert_no" = "No";
+"settings_alert_yes" = "Sí";

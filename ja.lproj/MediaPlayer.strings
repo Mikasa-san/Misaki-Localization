@@ -1,5 +1,8 @@
 "Media Player" = "メディアプレーヤー";
-"Cool Media Player" = "クールメディアプレーヤー";
-"Border Settings" = "境界線設定";
-"Border width" = "境界線の幅";
-"Border Color" = "境界線の色";
+"Always Show Volume" = "常に音量を表示";
+"Cool Media Player" = "クールなメディアプレーヤー";
+"Border width" = "枠線の幅";
+"Alpha Level" = "透明度レベル";
+"Border Color" = "枠線の色";
+"Color Media Player" = "カラーメディアプレーヤー";
+"Color" = "色";

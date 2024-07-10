@@ -1,7 +1,10 @@
-"respring_alert_title" = "Redémarrer";
+"respring_alert_title" = "Redémarrage";
 "respring_alert_message" = "Êtes-vous sûr de vouloir redémarrer ?";
 "respring_alert_no" = "Non";
 "respring_alert_yes" = "Oui";
 "respring_button_title" = "Redémarrer";
-"Close_Phone" = "Fermer le téléphone";
-"Close_Settings" = "Fermer les paramètres";
+"Close_Phone" = "Fermer Téléphone";
+"Close_Settings" = "Fermer Réglages";
+"settings_alert_message" = "Êtes-vous sûr de vouloir fermer les Réglages ?";
+"settings_alert_no" = "Non";
+"settings_alert_yes" = "Oui";

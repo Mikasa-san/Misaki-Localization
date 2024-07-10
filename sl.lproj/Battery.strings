@@ -1,0 +1,15 @@
+"Battery" = "Baterija";
+"Disable Charging Sound" = "Onemogoči zvok polnjenja";
+"Hide Low Power Alerts" = "Skrij opozorila nizkega napajanja";
+"Hide Charging Indicator" = "Skrij indikator polnjenja";
+"Hide Battery Percent" = "Skrij odstotek baterije";
+"Hide Battery Edge" = "Skrij rob baterije";
+"Font" = "Pisava";
+"Enable" = "Omogoči";
+"Font Size:" = "Velikost pisave:";
+"Regular Style" = "Običajni slog";
+"Battery Color" = "Barva baterije";
+"Battery Default Color" = "Privzeta barva baterije";
+"Battery Charging Color" = "Barva polnjenja baterije";
+"Battery Low Color" = "Barva nizke baterije";
+"Battery Saver Mode Color" = "Barva varčevalnega načina baterije";
