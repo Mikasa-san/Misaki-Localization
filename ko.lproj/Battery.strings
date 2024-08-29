@@ -1,0 +1,15 @@
+"Battery" = "배터리";
+"Disable Charging Sound" = "충전 소리 끄기";
+"Hide Low Power Alerts" = "저전력 경고 숨기기";
+"Hide Charging Indicator" = "충전 표시기 숨기기";
+"Hide Battery Percent" = "배터리 퍼센트 숨기기";
+"Hide Battery Edge" = "배터리 모서리 숨기기";
+"Font" = "글꼴";
+"Enable" = "활성화";
+"Font Size:" = "글꼴 크기:";
+"Regular Style" = "일반 스타일";
+"Battery Color" = "배터리 색상";
+"Battery Default Color" = "기본 배터리 색상";
+"Battery Charging Color" = "충전 중 배터리 색상";
+"Battery Low Color" = "저전력 배터리 색상";
+"Battery Saver Mode Color" = "배터리 절전 모드 색상";

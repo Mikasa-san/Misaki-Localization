@@ -1,7 +1,10 @@
 "respring_alert_title" = "Neustart";
-"respring_alert_message" = "Sind Sie sicher, dass Sie neu starten möchten?";
+"respring_alert_message" = "Möchten Sie wirklich neu starten?";
 "respring_alert_no" = "Nein";
 "respring_alert_yes" = "Ja";
 "respring_button_title" = "Neustart";
 "Close_Phone" = "Telefon schließen";
 "Close_Settings" = "Einstellungen schließen";
+"settings_alert_message" = "Möchten Sie die Einstellungen wirklich schließen?";
+"settings_alert_no" = "Nein";
+"settings_alert_yes" = "Ja";

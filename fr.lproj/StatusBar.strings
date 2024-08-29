@@ -34,5 +34,7 @@
 "Custom NC Title" = "Titre de centre de notifications personnalisé";
 "Cool Notification" = "Notification stylée";
 "Border width" = "Largeur de la bordure";
-"Blur Level" = "Niveau de flou";
+"Alpha Level" = "Niveau de flou";
 "Border Color" = "Couleur de la bordure";
+"Color Notification" = "Notification de Couleur";
+"Background Color" = "Couleur de Fond";

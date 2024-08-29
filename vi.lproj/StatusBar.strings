@@ -20,6 +20,7 @@
 "Border Settings" = "Cài đặt Viền";
 "Border width" = "Độ Rộng Viền";
 "Border Color" = "Màu Sắc Viền";
+"Alpha Level" = "Độ mờ";
 "Hide \"Notification Center\" Text" = "Ẩn Văn bản \"Trung tâm Thông báo\"";
 "Hide \"No Older Notifications\" Text" = "Ẩn Văn bản \"Không có thông báo cũ\"";
 "More Lines in Short Look View" = "Thêm Dòng trong Chế Độ Xem Ngắn";
@@ -31,3 +32,5 @@
 "Time/Date Flipper" = "Chuyển đổi Thời gian/Ngày tháng";
 "Enable Custom NC Title" = "Bật Tiêu đề Trung tâm Thông báo Tùy chỉnh";
 "Custom NC Title" = "Tiêu đề Trung tâm Thông báo Tùy chỉnh";
+"Color Notification" = "Thông Báo Màu Sắc";
+"Background Color" = "Màu Nền";

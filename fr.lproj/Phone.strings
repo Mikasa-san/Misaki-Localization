@@ -3,7 +3,13 @@
 "Hide Favorites Tab" = "Masquer l'onglet Favoris";
 "Hide Recents Tab" = "Masquer l'onglet Récents";
 "Hide Contacts Tab" = "Masquer l'onglet Contacts";
-"Hide Voicemail Tab" = "Masquer l'onglet Messagerie vocale";
-"Phone Style" = "Style du téléphone";
+"Hide Voicemail Tab" = "Masquer l'onglet Messagerie";
+"Phone Style" = "Style Téléphone";
 "Clear" = "Effacer";
 "Roman" = "Romain";
+"Exact Time" = "Heure Précise";
+"Hide Third Party Calls" = "Masquer les Appels Tiers";
+"Color Recents Calls" = "Couleur des Appels Récents";
+"Incoming Color" = "Couleur des Appels Entrants";
+"Outgoing Color" = "Couleur des Appels Sortants";
+"Missed Color" = "Couleur des Appels Manqués";

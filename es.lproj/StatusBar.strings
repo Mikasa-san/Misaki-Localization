@@ -34,5 +34,7 @@
 "Custom NC Title" = "Título Personalizado de NC";
 "Cool Notification" = "Notificación Genial";
 "Border width" = "Ancho del Borde";
-"Blur Level" = "Nivel de Desenfoque";
+"Alpha Level" = "Nivel de Desenfoque";
 "Border Color" = "Color del Borde";
+"Color Notification" = "Notificación de Color";
+"Background Color" = "Color de Fondo";

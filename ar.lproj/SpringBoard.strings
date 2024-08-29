@@ -8,6 +8,8 @@
 "Disable Lock After Respring" = "تعطيل القفل بعد إعادة التشغيل";
 "Hide Home Screen Backdrop" = "إخفاء خلفية شاشة الصفحة الرئيسية";
 "Hide App Labels" = "إخفاء تسميات التطبيقات";
+"Hide Folder Labels" = "إخفاء تسميات المجلدات";
+"Hide Widget Labels" = "إخفاء تسميات الودجات";
 "Hide Page Dots" = "إخفاء نقاط الصفحة";
 "Hide Search Pill" = "إخفاء البحث";
 "Hide Search Spotlight" = "إخفاء البحث في البداية";

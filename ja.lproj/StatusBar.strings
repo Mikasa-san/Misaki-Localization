@@ -20,6 +20,7 @@
 "Border Settings" = "境界設定";
 "Border width" = "境界線の幅";
 "Border Color" = "境界線の色";
+"Alpha Level" = "透明度レベル";
 "Hide \"Notification Center\" Text" = "通知センターテキストを非表示";
 "Hide \"No Older Notifications\" Text" = "古い通知はありませんテキストを非表示";
 "More Lines in Short Look View" = "ショートルックビューでの追加行数";
@@ -31,3 +32,5 @@
 "Time/Date Flipper" = "時間/日付フリッパー";
 "Enable Custom NC Title" = "カスタム通知センタータイトルを有効にする";
 "Custom NC Title" = "カスタム通知センタータイトル";
+"Color Notification" = "カラー通知";
+"Background Color" = "背景色";

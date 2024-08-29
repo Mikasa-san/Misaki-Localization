@@ -34,5 +34,7 @@
 "Custom NC Title" = "Prilagojen naslov NC";
 "Cool Notification" = "Hladno obvestilo";
 "Border width" = "Debelina obrobe";
-"Blur Level" = "Stopnja zameglitve";
+"Alpha Level" = "Stopnja zameglitve";
 "Border Color" = "Barva obrobe";
+"Color Notification" = "Obvestilo o Barvi";
+"Background Color" = "Barva Ozadja";

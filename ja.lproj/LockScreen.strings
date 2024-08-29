@@ -1,4 +1,5 @@
 "Lock Screen" = "ロック画面";
+"Hide Date" = "日付を隠す";
 "Hide Time" = "時間を非表示";
 "Hide Padlock" = "南京錠を非表示";
 "Hide Face ID Glyph" = "Face ID グリフを非表示";
@@ -23,6 +24,7 @@
 "Passcode Style" = "パスコードスタイル";
 "Clear" = "クリア";
 "Roman" = "ローマン";
+"Custom" = "カスタム";
 "Enable Confidential Text" = "機密テキストを有効にする";
 "Custom Confidential Text" = "カスタム機密テキスト";
 "Font Size:" = "フォントサイズ：";

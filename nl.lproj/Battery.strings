@@ -1,0 +1,15 @@
+"Battery" = "Batterij";
+"Disable Charging Sound" = "Geluid bij opladen uitschakelen";
+"Hide Low Power Alerts" = "Meldingen bij weinig vermogen verbergen";
+"Hide Charging Indicator" = "Laadindicator verbergen";
+"Hide Battery Percent" = "Batterijpercentage verbergen";
+"Hide Battery Edge" = "Batterijrand verbergen";
+"Font" = "Lettertype";
+"Enable" = "Inschakelen";
+"Font Size:" = "Lettergrootte:";
+"Regular Style" = "Normaal Stijl";
+"Battery Color" = "Batterijkleur";
+"Battery Default Color" = "Standaard Batterijkleur";
+"Battery Charging Color" = "Oplaadkleur batterij";
+"Battery Low Color" = "Kleur bij lage batterij";
+"Battery Saver Mode Color" = "Kleur batterijbesparingsmodus";

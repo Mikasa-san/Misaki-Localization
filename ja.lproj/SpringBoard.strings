@@ -10,6 +10,8 @@
 "Home Screen" = "ホーム画面";
 "Hide Home Screen Backdrop" = "ホーム画面の背景を非表示";
 "Hide App Labels" = "アプリのラベルを非表示";
+"Hide Folder Labels" = "フォルダラベルを非表示";
+"Hide Widget Labels" = "ウィジェットラベルを非表示";
 "Hide Page Dots" = "ページドットを非表示";
 "Hide Search Pill" = "検索ピルを非表示";
 "Hide Search Spotlight" = "検索スポットライトを非表示";

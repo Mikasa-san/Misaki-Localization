@@ -1,4 +1,5 @@
 "Lock Screen" = "قفل الشاشة";
+"Hide Date" = "إخفاء التاريخ";
 "Hide Time" = "إخفاء الوقت";
 "Hide Padlock" = "إخفاء القفل";
 "Hide Face ID Glyph" = "إخفاء رمز تعرف الوجه";
@@ -23,6 +24,7 @@
 "Passcode Style" = "نمط رمز المرور";
 "Clear" = "مسح";
 "Roman" = "روماني";
+"Custom" = "مخصص";
 "Enable Confidential Text" = "تمكين النص السري";
 "Custom Confidential Text" = "نص سري مخصص";
 "Font Size:" = "حجم الخط";

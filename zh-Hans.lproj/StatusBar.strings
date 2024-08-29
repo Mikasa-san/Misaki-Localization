@@ -3,6 +3,7 @@
 "Border Color" = "边框颜色";
 "Border Settings" = "边框设置";
 "Border width" = "边框宽度";
+"Alpha Level" = "透明度级别";
 "Status Bar & Notification" = "状态栏 & 通知";
 "Show Overrides For Recording" = "录制时显示覆盖效果";
 "Hide Cellular Bars" = "隐藏蜂窝网络信号栏";
@@ -31,3 +32,5 @@
 "Time/Date Flipper" = "时间/日期翻转器";
 "Enable Custom NC Title" = "启用自定义通知中心标题";
 "Custom NC Title" = "自定义通知中心标题";
+"Color Notification" = "颜色通知";
+"Background Color" = "背景颜色";

@@ -34,5 +34,7 @@
 "Custom NC Title" = "Custom NC Title";
 "Cool Notification" = "Cool Notification";
 "Border width" = "Border width";
-"Blur Level" = "Blur Level";
+"Alpha Level" = "Alpha Level";
 "Border Color" = "Border Color";
+"Color Notification" = "Color Notification";
+"Background Color" = "Background Color";

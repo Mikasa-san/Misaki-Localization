@@ -11,6 +11,7 @@
 "Hide Quick Action Toggles" = "隐藏快捷操作切换";
 "Hide Swipe Text" = "隐藏滑动文字";
 "Lock Screen" = "锁屏";
+"Hide Date" = "隐藏日期";
 "Hide Time" = "隐藏时间";
 "Show Status Bar Time" = "显示状态栏时间";
 "Tap to Passcode" = "点击进入密码";
@@ -23,6 +24,7 @@
 "Passcode Style" = "密码样式";
 "Clear" = "清除";
 "Roman" = "罗马";
+"Custom" = "自定义";
 "Enable Confidential Text" = "启用保密文本";
 "Custom Confidential Text" = "自定义保密文本";
 "Font Size:" = "字体大小：";

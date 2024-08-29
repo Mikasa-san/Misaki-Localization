@@ -1,4 +1,5 @@
 "Lock Screen" = "Màn hình khóa";
+"Hide Date" = "Ẩn ngày tháng";
 "Hide Time" = "Ẩn Thời gian";
 "Hide Padlock" = "Ẩn Khóa";
 "Hide Face ID Glyph" = "Ẩn Biểu tượng Face ID";
@@ -23,6 +24,7 @@
 "Passcode Style" = "Kiểu Mã bảo vệ";
 "Clear" = "Xóa";
 "Roman" = "La Mã";
+"Custom" = "Tùy chỉnh";
 "Enable Confidential Text" = "Bật Văn bản Bảo mật";
 "Custom Confidential Text" = "Văn bản Bảo mật Tùy chỉnh";
 "Font Size:" = "Cỡ chữ:";

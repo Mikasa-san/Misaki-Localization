@@ -1,7 +1,10 @@
 "respring_alert_title" = "Herstarten";
-"respring_alert_message" = "Weet u zeker dat u wilt herstarten?";
+"respring_alert_message" = "Weet je zeker dat je wilt herstarten?";
 "respring_alert_no" = "Nee";
 "respring_alert_yes" = "Ja";
 "respring_button_title" = "Herstarten";
-"Close_Phone" = "Telefoon sluiten";
-"Close_Settings" = "Instellingen sluiten";
+"Close_Phone" = "Sluit Telefoon";
+"Close_Settings" = "Sluit Instellingen";
+"settings_alert_message" = "Weet je zeker dat je Instellingen wilt sluiten?";
+"settings_alert_no" = "Nee";
+"settings_alert_yes" = "Ja";
